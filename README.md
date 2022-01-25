@@ -1,5 +1,7 @@
 # Metrics Datadog Reporter
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/2cd8275b-a0e4-4a16-8f14-44faa56df5da.svg?orgId=789439445641)](https://app.soluble.cloud/repos/details/github.com/pasonsystems/metrics-datadog?orgId=789439445641)  
+
 `metrics-datadog` is a simple reporting bridge between [Dropwizard Metrics](http://metrics.dropwizard.io/) and the [Datadog](https://www.datadoghq.com/) service. It includes support for:
 
 * Datadog's tagging feature
